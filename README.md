@@ -1,4 +1,4 @@
-##Alfred Workflow: CSV to JSON Script Filter
+## Alfred Workflow: CSV to JSON Script Filter
 
 This Alfred workflow uses a Python script to fetch and process CSV data from a specified URL, configured via an environment variable. The script converts the CSV data into JSON format suitable for Alfred's script filter and includes a caching mechanism for optimal performance.
 
